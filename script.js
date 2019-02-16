@@ -3,8 +3,8 @@ const compliments = [
   'We have a confession: we love your confections',
   'We love the way your cookie crumbles',
   'We go nuts over crack nuts',
-  'You are the brightest bite in our day',
-  'You&apos;re America&apos;s Semisweetheart',
+  'Your bites shine brightest',
+  'You&apos;re America&apos;s Semi Sweetheart',
   'Canele we tell you how much we love caneles?',
   'We are aching for your baking'
 ]
