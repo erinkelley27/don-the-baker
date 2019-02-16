@@ -1,0 +1,27 @@
+body {
+    background-image: url("./images/Paisley.png");
+    background-size: 250px;
+    background-repeat: repeat;
+    background-color: #0C0636;
+    text-align: center;
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 56px;
+    color: white;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25% 10px 25% 10px;
+}
+
+a {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
