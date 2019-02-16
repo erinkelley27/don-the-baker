@@ -8,20 +8,10 @@ body {
 
 p {
     font-family: 'Merriweather Sans', sans-serif;
-    font-size: 56px;
+    font-size: 65px;
     color: white;
-}
-
-.contact {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 25% 10px 25% 10px;
-}
-
-a {
-    font-family: 'Merriweather Sans', sans-serif;
-    font-size: 24px;
-    color: white;
-    text-decoration: none;
+    padding: 15% 25px 25% 25px;
 }

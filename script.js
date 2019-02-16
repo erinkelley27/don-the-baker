@@ -1,14 +1,12 @@
 const compliments = [
-  'Comp 1',
-  'Comp 2',
-  'Comp 3',
-  'Comp 4',
-  'Comp 5',
-  'Comp 6',
-  'Comp 7',
-  'Comp 8',
-  'Comp 9',
-  'Comp 10'
+  'You always RISE to the occasion',
+  'We have a confession: we love your confections',
+  'We love the way your cookie crumbles',
+  'We go nuts over crack nuts',
+  'You are the brightest bite in our day',
+  'You&apos;re America&apos;s Semisweetheart',
+  'Canele we tell you how much we love caneles?',
+  'We are aching for your baking'
 ]
 
 const compliment = document.querySelector('p')
